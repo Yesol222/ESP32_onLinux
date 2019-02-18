@@ -1,0 +1,42 @@
+In archive /mnt/c/esp/sensor/Tilt_switch/build/main/libmain.a:
+
+tiltswitch.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.app_main 00000024  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .text         00000000  00000000  00000000  00000058  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  2 .data         00000000  00000000  00000000  00000058  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  3 .bss          00000000  00000000  00000000  00000058  2**0
+                  ALLOC
+  4 .rodata.str1.4 00000020  00000000  00000000  00000058  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  5 .text.app_main 0000004c  00000000  00000000  00000078  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  6 .debug_frame  00000028  00000000  00000000  000000c4  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+  7 .debug_info   000001fe  00000000  00000000  000000ec  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+  8 .debug_abbrev 000000d4  00000000  00000000  000002ea  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  9 .debug_loc    0000001e  00000000  00000000  000003be  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 10 .debug_aranges 00000020  00000000  00000000  000003dc  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 11 .debug_ranges 00000010  00000000  00000000  000003fc  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 12 .debug_line   00000212  00000000  00000000  0000040c  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 13 .debug_str    000002b5  00000000  00000000  0000061e  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 14 .comment      0000003b  00000000  00000000  000008d3  2**0
+                  CONTENTS, READONLY
+ 15 .xtensa.info  00000038  00000000  00000000  0000090e  2**0
+                  CONTENTS, READONLY
+ 16 .xt.lit       00000008  00000000  00000000  00000946  2**0
+                  CONTENTS, RELOC, READONLY
+ 17 .xt.prop      00000048  00000000  00000000  0000094e  2**0
+                  CONTENTS, RELOC, READONLY

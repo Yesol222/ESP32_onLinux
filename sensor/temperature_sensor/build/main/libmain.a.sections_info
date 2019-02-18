@@ -1,0 +1,48 @@
+In archive /mnt/c/esp/sensor/temperature_sensor/build/main/libmain.a:
+
+temperature.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.temp 00000034  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.app_main 00000078  00000000  00000000  00000068  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .text         00000000  00000000  00000000  000000e0  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  3 .data         00000000  00000000  00000000  000000e0  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  4 .bss          00000000  00000000  00000000  000000e0  2**0
+                  ALLOC
+  5 .text.temp    0000005b  00000000  00000000  000000e0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  6 .rodata.str1.4 000000f2  00000000  00000000  0000013c  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  7 .text.app_main 00000101  00000000  00000000  00000230  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  8 .rodata.__func__$5873 00000009  00000000  00000000  00000334  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  9 .debug_frame  00000040  00000000  00000000  00000340  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 10 .debug_info   00000555  00000000  00000000  00000380  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 11 .debug_abbrev 0000016e  00000000  00000000  000008d5  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 12 .debug_loc    000000e2  00000000  00000000  00000a43  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 13 .debug_aranges 00000028  00000000  00000000  00000b25  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 14 .debug_ranges 00000018  00000000  00000000  00000b4d  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_line   000002e6  00000000  00000000  00000b65  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 16 .debug_str    0000051b  00000000  00000000  00000e4b  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 17 .comment      0000003b  00000000  00000000  00001366  2**0
+                  CONTENTS, READONLY
+ 18 .xtensa.info  00000038  00000000  00000000  000013a1  2**0
+                  CONTENTS, READONLY
+ 19 .xt.lit       00000010  00000000  00000000  000013d9  2**0
+                  CONTENTS, RELOC, READONLY
+ 20 .xt.prop      000000cc  00000000  00000000  000013e9  2**0
+                  CONTENTS, RELOC, READONLY

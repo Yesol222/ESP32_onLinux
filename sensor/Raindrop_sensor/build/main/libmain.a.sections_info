@@ -1,0 +1,44 @@
+In archive /mnt/c/esp/sensor/Raindrop_sensor/build/main/libmain.a:
+
+raindrop.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.app_main 00000080  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .text         00000000  00000000  00000000  000000b4  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  2 .data         00000000  00000000  00000000  000000b4  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  3 .bss          00000000  00000000  00000000  000000b4  2**0
+                  ALLOC
+  4 .rodata.str1.4 000000ee  00000000  00000000  000000b4  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  5 .text.app_main 00000109  00000000  00000000  000001a4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  6 .rodata.__func__$5348 00000009  00000000  00000000  000002b0  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  7 .debug_frame  00000028  00000000  00000000  000002bc  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+  8 .debug_info   000004f7  00000000  00000000  000002e4  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+  9 .debug_abbrev 00000123  00000000  00000000  000007db  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 10 .debug_loc    00000095  00000000  00000000  000008fe  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 11 .debug_aranges 00000020  00000000  00000000  00000993  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 12 .debug_ranges 00000010  00000000  00000000  000009b3  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 13 .debug_line   000002b4  00000000  00000000  000009c3  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 14 .debug_str    000004ef  00000000  00000000  00000c77  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 15 .comment      0000003b  00000000  00000000  00001166  2**0
+                  CONTENTS, READONLY
+ 16 .xtensa.info  00000038  00000000  00000000  000011a1  2**0
+                  CONTENTS, READONLY
+ 17 .xt.lit       00000008  00000000  00000000  000011d9  2**0
+                  CONTENTS, RELOC, READONLY
+ 18 .xt.prop      000000b4  00000000  00000000  000011e1  2**0
+                  CONTENTS, RELOC, READONLY

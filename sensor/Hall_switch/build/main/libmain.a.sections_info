@@ -1,0 +1,52 @@
+In archive /mnt/c/esp/sensor/Hall_switch/build/main/libmain.a:
+
+hall_switch.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.check_efuse 00000028  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.print_char_val_type 00000018  00000000  00000000  0000005c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.app_main 00000034  00000000  00000000  00000074  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .text         00000000  00000000  00000000  000000a8  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  4 .data         00000000  00000000  00000000  000000a8  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  5 .bss          00000000  00000000  00000000  000000a8  2**0
+                  ALLOC
+  6 .rodata.str1.4 000000ef  00000000  00000000  000000a8  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  7 .text.check_efuse 00000047  00000000  00000000  00000198  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  8 .text.print_char_val_type 0000002b  00000000  00000000  000001e0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  9 .text.app_main 00000090  00000000  00000000  0000020c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 10 .bss.adc_chars 00000004  00000000  00000000  0000029c  2**2
+                  ALLOC
+ 11 .debug_frame  00000058  00000000  00000000  0000029c  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 12 .debug_info   00000591  00000000  00000000  000002f4  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 13 .debug_abbrev 00000187  00000000  00000000  00000885  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 14 .debug_loc    0000006f  00000000  00000000  00000a0c  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_aranges 00000030  00000000  00000000  00000a7b  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 16 .debug_ranges 00000038  00000000  00000000  00000aab  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 17 .debug_line   000002d0  00000000  00000000  00000ae3  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 18 .debug_str    000005b8  00000000  00000000  00000db3  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 19 .comment      0000003b  00000000  00000000  0000136b  2**0
+                  CONTENTS, READONLY
+ 20 .xtensa.info  00000038  00000000  00000000  000013a6  2**0
+                  CONTENTS, READONLY
+ 21 .xt.lit       00000018  00000000  00000000  000013de  2**0
+                  CONTENTS, RELOC, READONLY
+ 22 .xt.prop      00000114  00000000  00000000  000013f6  2**0
+                  CONTENTS, RELOC, READONLY

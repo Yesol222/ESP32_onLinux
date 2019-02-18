@@ -1,0 +1,50 @@
+In archive /mnt/c/esp/sensor/Utrasonic_Raging/build/main/libmain.a:
+
+ultrasonic.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.HCSR04_tx_init 0000000c  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.HCSR04_rx_init 0000000c  00000000  00000000  00000040  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.app_main 00000060  00000000  00000000  0000004c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .text         00000000  00000000  00000000  000000ac  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  4 .data         00000000  00000000  00000000  000000ac  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  5 .bss          00000000  00000000  00000000  000000ac  2**0
+                  ALLOC
+  6 .text.HCSR04_tx_init 00000047  00000000  00000000  000000ac  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  7 .text.HCSR04_rx_init 0000003e  00000000  00000000  000000f4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  8 .rodata.str1.4 00000013  00000000  00000000  00000134  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  9 .text.app_main 000000cf  00000000  00000000  00000148  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 10 .debug_frame  00000058  00000000  00000000  00000218  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 11 .debug_info   00000688  00000000  00000000  00000270  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 12 .debug_abbrev 00000181  00000000  00000000  000008f8  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 13 .debug_loc    00000018  00000000  00000000  00000a79  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 14 .debug_aranges 00000030  00000000  00000000  00000a91  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_ranges 00000020  00000000  00000000  00000ac1  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 16 .debug_line   000003c2  00000000  00000000  00000ae1  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 17 .debug_str    000006e9  00000000  00000000  00000ea3  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 18 .comment      0000003b  00000000  00000000  0000158c  2**0
+                  CONTENTS, READONLY
+ 19 .xtensa.info  00000038  00000000  00000000  000015c7  2**0
+                  CONTENTS, READONLY
+ 20 .xt.lit       00000018  00000000  00000000  000015ff  2**0
+                  CONTENTS, RELOC, READONLY
+ 21 .xt.prop      00000090  00000000  00000000  00001617  2**0
+                  CONTENTS, RELOC, READONLY
